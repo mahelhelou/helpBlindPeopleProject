@@ -1,0 +1,1 @@
+This project is an open source project which helps blind people over the world to make their lives easier with technologies
